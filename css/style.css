@@ -51,7 +51,6 @@ h1 {
   background: url('../img/IMG_0274.JPG') no-repeat center;
   background-size: cover;
   text-align: center;
-  z-index: -1;
 }
 
 .tagline {
@@ -111,7 +110,7 @@ h1 {
 #university {
   color: #fff;
   height: 250px;
-  padding-top: 1px;
+  padding-top: 50px;
 }
 
 #about-us {
@@ -346,7 +345,7 @@ footer .more a {
   height: 200px;
   background-position: 90% 100%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-size: cover;
 }
 

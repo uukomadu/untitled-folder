@@ -48,7 +48,7 @@ h1 {
 /* --- Jumbotron --- */
 #jumbotron {
   height: 360px;
-  background: url('../img/IMG_0274.JPG') no-repeat center;
+  background: url('../img/IMG_0273.JPG') no-repeat center;
   background-size: cover;
   text-align: center;
 }
@@ -110,7 +110,7 @@ h1 {
 #university {
   color: #fff;
   height: 250px;
-  padding-top: 50px;
+  padding-top: 15px;
 }
 
 #about-us {
@@ -195,6 +195,7 @@ h1 {
 /* --- University --- */
 #university {
   background-image: url('../img/edu-sm.jpg');
+  padding-top: 50px;
 }
 
 #university p {

@@ -172,10 +172,6 @@ h1 {
   text-decoration: none;
 }
 
-.hidden {
-  display: none;
-}
-
 .btn {
   width: 200px;
   margin: auto;
@@ -395,6 +391,10 @@ footer .more a {
     display: block !important;
     margin: 0;
   }
+
+  .hidden {
+    display: none;
+  }
 }
 
 /* --- Media Quary --- */
@@ -462,14 +462,6 @@ footer .more a {
 .tagline h1 {
   font-size: 72px;
 }
-
-/*.tagline span {
-  font-size: 24px;
-  font-weight: 300;
-  width: 100%;
-  display: block;
-  margin-bottom: 30px;
-}*/
 
 .tagline a {
   color: #fff;

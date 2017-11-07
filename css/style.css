@@ -19,7 +19,7 @@ ul {
 }
 
 h1 {
-  font-size: 1.7361111111111112vw;
+  font-size: 1.5625rem;
 }
 
 /* --- Main Header ---- */
@@ -32,7 +32,7 @@ h1 {
 .main-nav li,
 .main-nav a {
   font-family: 'Lato', sans-serif;
-  font-size: 0.8333333333333333vw;
+  font-size: .75rem;
   font-weight: 400;
   display: inline-block;
   text-transform: uppercase;
@@ -75,7 +75,7 @@ h1 {
   color: #fff;
   text-transform: uppercase;
   font-weight: 900;
-  font-size: 0.8333333333333333vw;
+  font-size: .75rem;
   letter-spacing: .075rem;
   text-decoration: none;
   border: .1875rem solid #fff;
@@ -128,7 +128,7 @@ h1 {
 
 .a-btn a {
   color: #fff;
-  font-size: 0.7638888888888888vw;
+  font-size: .6875rem;
   font-weight: 900;
   letter-spacing: .075rem;
   text-transform: uppercase;
@@ -153,14 +153,14 @@ h1 {
 
 #ministries h3,
 #events h3 {
-  font-size: 1.5277777777777777vw;
+  font-size: 1.375rem;
   text-align: center;
 }
 
 #ministries p,
 #events p {
   color: #8a8a8a;
-  font-size: 0.8333333333333333vw;
+  font-size: .75rem;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   text-align: center;
@@ -182,7 +182,7 @@ h1 {
 
 .btn a {
   color: #454242;
-  font-size: 1.3888888888888888vw;
+  font-size: 1.25rem;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-decoration: none;
@@ -195,7 +195,7 @@ h1 {
 }
 
 #university p {
-  font-size: 0.8333333333333333vw;
+  font-size: .75rem;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   padding: 0 2em;
@@ -211,7 +211,7 @@ h1 {
 
 .btn-uni a {
   color: #fff;
-  font-size: 1.3888888888888888vw;
+  font-size: 1.25rem;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-decoration: none;
@@ -265,7 +265,7 @@ label {
 
 input {
   color: #454242;
-  font-size: 1.1111111111111112vw;
+  font-size: 1em;
   width: 100%;
   padding: 1.25rem;
   margin: .3125rem 0;
@@ -294,7 +294,7 @@ footer {
 }
 
 footer .contact li {
-  font-size: 1.3888888888888888vw;
+  font-size: 1.25rem;
   margin: .9375rem 0;
   font-weight: 700;
 }
@@ -313,7 +313,7 @@ footer .more {
 
 footer .more a {
   color: #fff;
-  font-size: 1.3888888888888888vw;
+  font-size: 1.25rem;
   font-family: 'Lato', sans-serif;
   text-decoration: none;
   border: .25rem solid #fff;
@@ -323,7 +323,7 @@ footer .more a {
 
 .copyright {
   font-family: 'Open Sans', sans-serif;
-  font-size: 0.8333333333333333vw;
+  font-size: .75rem;
   margin-top: 3.125rem;
 }
 
@@ -348,7 +348,7 @@ footer .more a {
 /* --- Parallax Content --- */
 .par-desc {
   width: 100%;
-  font-size: 3.4722222222222223vw;
+  font-size: 3.125rem;
 }
 
 /* --- Mobile --- */

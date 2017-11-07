@@ -406,6 +406,10 @@ footer .more a {
     padding: 0;
   }
 
+  .logo img {
+    width: 100%;
+  }
+
 #main-header {
   position: fixed;
   width: 100%;
@@ -427,14 +431,14 @@ footer .more a {
 
 .main-nav li {
   float: left;
-  margin-top: 2.5rem;
+  margin-top: 1.7rem;
 }
 
 .main-nav a {
   color: #454242;
   font-family: 'Lato', sans-serif;
-  font-size: 0.8333333333333333vw;
-  font-weight: 400;
+  font-size: 1.1111111111111112vw;
+  font-weight: 700;
   letter-spacing: .09375rem;
 }
 
@@ -547,6 +551,10 @@ footer .more a {
 #ministries h3,
 #ministries p {
   text-align: left;
+}
+
+#ministries p {
+  font-size: 0.9027777777777778vw;
 }
 
 .c-ministries {
@@ -702,6 +710,7 @@ footer {
   text-align: center;
   background-color: #454242;
   padding: 1.5625rem 0;
+  height: 250px;
 }
 
 footer .contact {
